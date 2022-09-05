@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\PypTasks\HttpClient\HttpClient\bin\Debug\net6.0\HttpClient.exe
+C:\Users\HP\Desktop\PypTasks\HttpClient\HttpClient\bin\Debug\net6.0\HttpClient.deps.json
+C:\Users\HP\Desktop\PypTasks\HttpClient\HttpClient\bin\Debug\net6.0\HttpClient.runtimeconfig.json
+C:\Users\HP\Desktop\PypTasks\HttpClient\HttpClient\bin\Debug\net6.0\HttpClient.dll
+C:\Users\HP\Desktop\PypTasks\HttpClient\HttpClient\bin\Debug\net6.0\HttpClient.pdb
+C:\Users\HP\Desktop\PypTasks\HttpClient\HttpClient\obj\Debug\net6.0\HttpClient.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\PypTasks\HttpClient\HttpClient\obj\Debug\net6.0\HttpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\PypTasks\HttpClient\HttpClient\obj\Debug\net6.0\HttpClient.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\PypTasks\HttpClient\HttpClient\obj\Debug\net6.0\HttpClient.AssemblyInfo.cs
+C:\Users\HP\Desktop\PypTasks\HttpClient\HttpClient\obj\Debug\net6.0\HttpClient.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PypTasks\HttpClient\HttpClient\obj\Debug\net6.0\HttpClient.dll
+C:\Users\HP\Desktop\PypTasks\HttpClient\HttpClient\obj\Debug\net6.0\refint\HttpClient.dll
+C:\Users\HP\Desktop\PypTasks\HttpClient\HttpClient\obj\Debug\net6.0\HttpClient.pdb
+C:\Users\HP\Desktop\PypTasks\HttpClient\HttpClient\obj\Debug\net6.0\HttpClient.genruntimeconfig.cache
+C:\Users\HP\Desktop\PypTasks\HttpClient\HttpClient\obj\Debug\net6.0\ref\HttpClient.dll
+C:\Users\HP\Desktop\PypTasks\HttpClient\HttpClient\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\PypTasks\HttpClient\HttpClient\obj\Debug\net6.0\HttpClient.csproj.CopyComplete
